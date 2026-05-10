@@ -48,7 +48,7 @@ label start:
     kd "{bt=1}H-Hello{/bt} everyone, my name is Kai Danko and I'm from a town in the countryside."
 
     show mc neutral
-    kd "I like to spend my time reading, sketching, and going outdoors."
+    kd "I love to spend my time reading, sketching, and going outdoors."
 
     show mc regular
     kd "I’m looking forward to getting to know everyone!"
