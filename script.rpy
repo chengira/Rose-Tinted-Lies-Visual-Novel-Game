@@ -48,7 +48,7 @@ label start:
     kd "{bt=1}H-Hello{/bt} everyone, my name is Kai Danko and I'm from a town in the countryside."
 
     show mc neutral
-    kd "I love to spend my time reading, sketching, and going outdoors."
+    kd "I like to spend my time reading, sketching, and going outdoors."
 
     show mc regular
     kd "I’m looking forward to getting to know everyone!"
@@ -58,7 +58,7 @@ label start:
         zoom 1
         xalign 0.5
 
-    teach "Here's your student ID, make sure you don't lose it. I've already got enough paperwork as is..."
+    teach "Here is your student ID, make sure you don't lose it. I've already got enough paperwork as is..."
 
     show id with fade:
         zoom 0.75
