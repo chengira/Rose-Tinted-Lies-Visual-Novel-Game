@@ -50,6 +50,20 @@ Content is aimed at players aged 16 and above due to mature themes of stalking, 
 
 ---
 
+## Gameplay Examples
+
+### Main Menu
+![Main Menu](exfiles/Menu.png)
+
+### Choices
+![Choice Screen](exfiles/Choice.png)
+
+### Demeanor Shift
+![Scene 1](exfiles/Scene1.gif)
+
+### QTE Scene
+![Scene 2](exfiles/Scene2.gif)
+
 ## Credits
 Developed by Ira Cheng and Tse Him Wu
 
