@@ -52,5 +52,7 @@ Content is aimed at players aged 16 and above due to mature themes of stalking, 
 
 ## Credits
 Developed by Ira Cheng and Tse Him Wu
+
 Chinese University of Hong Kong
+
 CURE 3006: Video Game and Play Culture 
